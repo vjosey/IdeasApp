@@ -7,4 +7,9 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Images" />
+      <Folder Include="MWM\Models" />
+    </ItemGroup>
+
 </Project>
